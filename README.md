@@ -1,13 +1,13 @@
 
 ## How to install
 
-- [PHP 7.2.5 Required
-- [Likelihood Of Impact: Low
-- [Laravel version 7 
+<p align="center">PHP 7.2.5 Required</p>
+<p align="center">Likelihood Of Impact: Low</p>
+<p align="center">Laravel version 7 </p>
 
-- [1.Set .env DB_DATABASE name
-- [2.php artisan migrate
-- [3.php artisan db:seed
+- 1.Set .env DB_DATABASE name
+- 2.php artisan migrate
+- 3.php artisan db:seed
 
 ## API
 
